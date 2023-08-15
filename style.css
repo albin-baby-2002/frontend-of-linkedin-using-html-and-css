@@ -30,10 +30,6 @@ header {
   max-height: 20px;
 }
 
-.searchPlace {
-  /* padding: 0px 10px; */
-}
-
 .navIcons {
   font-size: 1.4rem;
 }
@@ -272,10 +268,6 @@ main {
 
   display: flex;
   justify-content: center;
-}
-
-.postImg img {
-  /* width: 400px; */
 }
 
 .post {
